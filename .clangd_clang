@@ -1,0 +1,4 @@
+CompileFlags:
+  Add: [-xc, -std=c17, -fpie, -W, -Wextra, -g3, -O0, -Wall, -Werror, -pedantic,
+  -Wparentheses, -Wimplicit-fallthrough, -I/home/jrl/code/playdate_sdk/1.12.0/C_API] 
+  Compiler: clang

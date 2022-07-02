@@ -1,0 +1,10 @@
+*.o
+*.swp
+*.out
+*.core
+*.so
+*.pdx
+vgcore.*
+bin/
+build/
+
